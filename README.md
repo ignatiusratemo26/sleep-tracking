@@ -65,5 +65,5 @@ Ensure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/sleepscope-data-analysis.git
+   git clone https://github.com/ignatiusratemo26/sleepscope-data-analysis.git
    cd sleepscope-data-analysis
